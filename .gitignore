@@ -1,4 +1,5 @@
 .idea
+.idea/vcs.xml
 
 secret_things.py
 goodbye_world.py
